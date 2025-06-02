@@ -1,61 +1,79 @@
-<h2 align="left">Hi 👋! My name is Nikhil kumar Garepalli</h2>
+# 👋 Hi, I'm Nikhil Kumar Garepalli
 
-###
+### 💻 Backend Developer | Java | Spring Boot | Redis | AWS | CI/CD | DevOps
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilgarepalli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilgarepalli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+🚀 Passionate backend developer with 1+ years of experience designing and deploying scalable microservices.  
+🛒 Founder of ClikGett – a hyperlocal e-commerce platform, built from scratch and deployed to AWS.  
+🔧 Strong in DevOps, CI/CD, cloud deployments, and writing production-ready backend code.  
+📈 Proven ability to boost backend performance using Redis, automate pipelines with Jenkins, and containerize apps using Docker.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-</div>
+`Java` `Spring Boot` `MySQL` `Redis`  
+`AWS EC2/S3` `Jenkins` `Docker` `Git`  
+`Python` `Selenium` `Linux` `Terraform`  
+`Maven` `Ansible` `Kubernetes`
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/resume-builder/urn:li:fsd_memberResume:80692380/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMTtdPwVTQwRXHczrzfgSlRfSQNkNqjkJNLZWvFjHwGqTCFHzFCNSmpCDzXQJcTlPjVHQjs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+### 📦 Featured Projects
 
-###
+#### 🛒 [E-Commerce Backend Platform](https://github.com/Nikhilgarepalli/E-commerce.git)
+> A fully functional backend for an e-commerce application with authentication, product, and order management.
 
-<br clear="both">
+- Spring Boot + REST APIs + MySQL
+- JWT-based authentication and RBAC
+- Redis caching: 90% faster responses
+- MVC architecture, Git-based source control
+- CI/CD integration and AWS deployment
 
-<img src="https://raw.githubusercontent.com/Nikhilgarepalli/Nikhilgarepalli/output/snake.svg" alt="Snake animation" />
+---
 
-###
+#### ⚙️ [CI/CD Pipeline with Jenkins & AWS](https://github.com/Nikhilgarepalli/simple-webapp-flask.git)
+> Automated deployment of a web app using Jenkins pipelines and Maven, hosted on AWS EC2.
+
+- Integrated Git version control
+- Jenkins pipelines for build/test/deploy
+- Deployed Java web app on Apache Tomcat
+- Reduced deployment time by 60%
+
+---
+
+### 🧠 Experience Highlights
+
+- **Founder – ClikGett (2024–Present)**  
+  Built full-stack e-commerce app (React + Flutter + Spring Boot), managed AWS infra, and scaled operations.  
+  - Deployed on EC2/S3, 95% order fulfillment
+  - Integrated automated workflows for ops  
+  - Ran marketing campaigns (Instagram & Google Ads)
+
+- **Associate Software Engineer – Tech Mahindra (2021–2023)**  
+  - Built secure Spring Boot microservices
+  - Boosted DB query performance by 30%
+  - Added 85% test coverage using JUnit
+  - Dockerized apps & deployed via Jenkins on AWS
+
+---
+
+### 🎓 Education
+
+- **Scaler Academy (2023)**  
+  - Data Structures, Java, Low-Level Design  
+- **CBIT, Hyderabad (2021)**  
+  - B.E. in Computer Science
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nikhil-garepalli-6602701a7/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Nikhilgarepalli)  
+📧 nikhil.garepalli@gmail.com
+
+---
+
+> “Code for performance. Design for maintainability. Deploy for scale.” 🔁
